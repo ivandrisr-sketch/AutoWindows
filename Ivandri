@@ -1,0 +1,32 @@
+AutoWindows
+│
+├── AutoWindows.ps1
+├── README.md
+├── LICENSE
+├── CHANGELOG.md
+├── .gitignore
+│
+├── Modules
+│   ├── Diagnostico.ps1
+│   ├── Seguridad.ps1
+│   ├── Mantenimiento.ps1
+│   ├── Red.ps1
+│   ├── Wifi.ps1
+│   ├── Office.ps1
+│   ├── Windows.ps1
+│   ├── Drivers.ps1
+│   ├── Software.ps1
+│   ├── Inventario.ps1
+│   ├── Backup.ps1
+│   ├── Logs.ps1
+│   └── Update.ps1
+│
+├── Assets
+│   ├── Banner.txt
+│   ├── Logo.txt
+│   └── Icon.ico
+│
+├── Config
+│   └── config.json
+│
+└── Logs
